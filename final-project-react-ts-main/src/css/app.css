@@ -1,0 +1,20 @@
+body {
+    background-color:lightblue;
+  }
+
+#card{
+    margin-left: 0.5%;
+}
+
+#divAllCards{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    color:aquamarine;
+    width: 100%;
+
+}
+.mapContainer{
+    width: 100%;
+    height: 100vh;
+}
